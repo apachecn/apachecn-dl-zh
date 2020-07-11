@@ -10,6 +10,16 @@
 
 ## 目录
 
++   [使用 TensorFlow 构建机器学习项目中文版](docs/build-ml-proj-tf-zh/README.md)
++   [TensorFlow 深度学习中文第二版](docs/dl-tf-2e-zh/README.md)
++   [TensorFlow 深度学习实战指南中文版](docs/hands-on-dl-tf-zh/README.md)
++   [精通 TensorFlow 1.x](docs/mastering-tf-1x-zh/README.md)
++   [TensorFlow 机器学习秘籍中文第二版](docs/tf-ml-cookbook-2e-zh/README.md)
++   [与 TensorFlow 的初次接触](docs/first_contact_with_tensorFlow/README.md)
++   [TensorFlow 学习指南](docs/learning-tf-zh/README.md)
++   [TensorFlow Rager 教程](docs/tf-eager-tut/README.md)
++   [TensorFlow 高效编程](docs/effective-tf.md)
+
 ## 贡献指南
 
 本项目需要校对，欢迎大家提交 Pull Request。
