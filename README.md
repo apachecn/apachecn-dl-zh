@@ -1,10 +1,10 @@
-# ApacheCN TensorFlow 译文集
+# ApacheCN 深度学习译文集
 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
 > 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
 
-* [在线阅读](https://ds.apachecn.org)
+* [在线阅读](https://dl.apachecn.org)
 * [ApacheCN 面试求职交流群 724187166](https://jq.qq.com/?_wv=1027&k=54ujcL3)
 * [ApacheCN 学习资源](http://www.apachecn.org/)
 
