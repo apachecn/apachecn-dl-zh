@@ -12,7 +12,7 @@
 +   [十一、TF 服务：生产中的 TensorFlow 模型](ch11.md)
 +   [十二、迁移学习和预训练模型](ch12.md)
 +   [十三、深度强化学习](ch13.md)
-+   [十四、生成性对抗网络](ch14.md)
++   [十四、生成对抗网络](ch14.md)
 +   [十五、使用 TensorFlow 集群的分布式模型](ch15.md)
 +   [十六、移动和嵌入式平台上的 TensorFlow 模型](ch16.md)
 +   [十七、R 中的 TensorFlow 和 Keras](ch17.md)
