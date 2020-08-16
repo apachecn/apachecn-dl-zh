@@ -4,6 +4,8 @@
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
+> 自豪地采用[谷歌翻译](https://translate.google.cn/)
+> 
 > 不要担心自己的形象，只关心如何实现目标。——《原则》，生活原则 2.3.c
 
 * [在线阅读](https://dl.apachecn.org)
