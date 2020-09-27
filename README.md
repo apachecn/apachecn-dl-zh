@@ -22,6 +22,17 @@
 +   [TensorFlow Rager 教程](docs/tf-eager-tut/README.md)
 +   [TensorFlow 高效编程](docs/effective-tf.md)
 
+## 下载
+
+### NPM
+
+```
+npm install -g apachecn-dl-zh
+apachecn-dl-zh <port>
+' + 
+                '# 访问 http://localhost:{port} 查看文档
+```
+
 ## 贡献指南
 
 本项目需要校对，欢迎大家提交 Pull Request。
