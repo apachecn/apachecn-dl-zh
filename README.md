@@ -29,8 +29,7 @@
 ```
 npm install -g apachecn-dl-zh
 apachecn-dl-zh <port>
-' + 
-                '# 访问 http://localhost:{port} 查看文档
+# 访问 http://localhost:{port} 查看文档
 ```
 
 ## 贡献指南
