@@ -200,7 +200,7 @@
     +   [九、大规模训练](docs/handson-cnn-tf/9.md)
     +   [十、参考文献](docs/handson-cnn-tf/10.md)
 +   [Python 人工智能中文版](docs/ai-py/README.md)
-    +   [前言](docs/ai-py/00.md)
+    +   [0 前言](docs/ai-py/00.md)
     +   [1 人工智能简介](docs/ai-py/01.md)
     +   [2 人工智能的基本用例](docs/ai-py/02.md)
     +   [3 机器学习管道](docs/ai-py/03.md)
