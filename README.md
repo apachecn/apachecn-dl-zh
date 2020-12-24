@@ -7,6 +7,7 @@
 > 不要担心自己的形象，只关心如何实现目标。——《原则》，生活原则 2.3.c
 
 * [在线阅读](https://dl.apachecn.org)
+* [在线阅读（Gitee）](https://apachecn.gitee.io/apachecn-dl-zh/)
 * [ApacheCN 面试求职交流群 724187166](https://jq.qq.com/?_wv=1027&k=54ujcL3)
 * [ApacheCN 学习资源](http://www.apachecn.org/)
 
