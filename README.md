@@ -12,6 +12,7 @@
 
 ## 目录
 
++   [TensorFlow 1.x 深度学习秘籍](docs/tf-1x-dl-cookbook/README.md)
 +   [使用 TensorFlow 构建机器学习项目中文版](docs/build-ml-proj-tf-zh/README.md)
 +   [TensorFlow 深度学习中文第二版](docs/dl-tf-2e-zh/README.md)
 +   [TensorFlow 深度学习实战指南中文版](docs/hands-on-dl-tf-zh/README.md)
@@ -21,6 +22,20 @@
 +   [TensorFlow 学习指南](docs/learning-tf-zh/README.md)
 +   [TensorFlow Rager 教程](docs/tf-eager-tut/README.md)
 +   [TensorFlow 高效编程](docs/effective-tf.md)
++   [图嵌入综述：问题，技术与应用](docs/ge-survey-arxiv-1709-07604-zh/README.md)
++   [基于深度学习的推荐系统：综述和新视角](docs/rs-survey-arxiv-1707-07435-zh/README.md)
++   [关于卷积神经网络我们理解了什么](docs/what-do-we-understand-about-convnet/README.md)
++   [机器学习超级复习笔记](docs/super-machine-learning-revision-notes/README.md)
++   [Python 迁移学习实用指南](docs/handson-tl-py/README.md)
++   [面向计算机视觉的深度学习](docs/dl-cv/README.md)
++   [深度学习快速参考](docs/dl-quick-ref/README.md)
++   [TensorFlow 2.0 快速入门指南](docs/tf-20-quick-start-guide/README.md)
++   [TensorFlow 入门](docs/get-start-tf/README.md)
++   [TensorFlow 卷积神经网络实用指南](docs/handson-cnn-tf/README.md)
++   [Python 人工智能中文版](docs/ai-py/README.md)
++   [Python 无监督学习实用指南](docs/handson-unsup-learn-py/README.md)
++   [生成对抗网络项目](docs/gan-proj/README.md)
++   [TensorFlow 智能移动项目](docs/intel-mobi-proj-tf/README.md)
 
 ## 下载
 
