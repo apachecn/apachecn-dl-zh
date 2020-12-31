@@ -9,7 +9,7 @@
 *   使用 Intel OpenVINO 工具包和 TensorFlow Lite 在 RaspBerry Pi 中部署神经网络模型进行对象检测（第 11 章）
 *   通过在 Android Studio 和 Xcode 中使用 TensorFlow Lite 部署模型来在 Android 手机和 iPhone 上执行对象检测（第 11 章）
 *   使用 Create ML 训练自定义对象检测器，并使用 Xcode 和 Swift 将其部署在 iPhone 上（第 11 章）
-*   对各种云平台的基础结构有一个总体了解- **Google 云平台**（ **GCP** ）， **Amazon Web Services** （ **AWS** ） ，以及 **Microsoft Azure 云平台**（第 12 章）
+*   对各种云平台的基础结构有一个总体了解- **Google 云平台**（**GCP**）， **Amazon Web Services** （**AWS**） ，以及 **Microsoft Azure 云平台**（第 12 章）
 *   为使用 GCP，AWS 和 Azure 的自定义对象检测开发端到端机器学习平台（第 12 章）
 *   了解如何使用 TensorFlow 进行大规模培训和打包（第 12 章）
 *   使用 GCP，AWS 和 Azure 执行可视搜索（第 12 章）
