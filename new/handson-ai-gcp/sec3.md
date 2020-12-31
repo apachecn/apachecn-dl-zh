@@ -4,6 +4,6 @@
 
 本节包括以下章节：
 
-*   [第 7 章](../Text/07.html)和*了解云 TPU*
-*   [第 8 章](../Text/08.html)和*使用 Cloud ML Engine* 实施 TensorFlow 模型
-*   [第 9 章](../Text/09.html)和*建筑预测应用程序*
+*   “第 7 章”，*了解云 TPU*
+*   “第 8 章”，*使用 Cloud ML Engine* 实施 TensorFlow 模型
+*   “第 9 章”，*建筑预测应用程序*

@@ -4,7 +4,7 @@
 
 本节包括以下章节：
 
-*   [第 5 章](../Text/05.html)和*通过 API 进行深度学习*
-*   [第 6 章](../Text/06.html)和*使用 Python 在 Google Cloud Platform 上进行深度学习*
-*   [第 7 章](../Text/07.html)和*使用 Python 的 AWS 上的 DL：对象检测和家庭自动化*
-*   [第 8 章](../Text/08.html)和*使用 Python 在 Microsoft Azure 上进行深度学习*
+*   “第 5 章”，*通过 API 进行深度学习*
+*   “第 6 章”，*使用 Python 在 Google Cloud Platform 上进行深度学习*
+*   “第 7 章”，*使用 Python 的 AWS 上的 DL：对象检测和家庭自动化*
+*   “第 8 章”，*使用 Python 在 Microsoft Azure 上进行深度学习*
