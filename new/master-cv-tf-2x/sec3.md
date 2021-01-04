@@ -10,7 +10,7 @@
 *   了解各种类型的对象检测器，例如 SSD，R-FCN，更快的 R-CNN 和 MaskR-CNN（第 10 章）。
 *   了解如何在 TFRecord 中转换图像和注释文件以输入到 TensorFlow 对象检测 API（第 10 章）
 *   了解如何使用自己的图像来使用 TensorFlow 对象检测 API 训练模型并对其进行推理（第 10 章）
-*   了解如何使用 TensorFlow 集线器进行对象检测以及如何使用 TensorBoard 可视化培训进度（第 10 章）
+*   了解如何使用 TensorFlow 集线器进行对象检测以及如何使用 TensorBoard 可视化训练进度（第 10 章）
 *   了解与对象检测相关的 IOU，ROI，RPN 和 ROI 对齐（第 10 章）。
 *   了解如何使用 Mask R-CNN 对图像进行分割（第 10 章）
 *   了解不同的 OpenCV 以及基于连体网络的对象跟踪方法，并将其用于视频文件（第 10 章）
