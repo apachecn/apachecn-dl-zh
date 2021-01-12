@@ -1,0 +1,8 @@
+# 第 1 节：适用于 NLP 的 PyTorch 1.x 的要点
+
+在本节中，您将在**自然语言处理**（ **NLP** ）的背景下了解 PyTorch 1.x 的基本概念。 您还将学习如何在计算机上安装 PyTorch 1.x，以及如何使用 CUDA 加快处理速度。
+
+本节包含以下章节：
+
+*   [*第 1 章*](../Text/1.html#_idTextAnchor015) 和*机器学习和深度学习基础知识*
+*   [*第 2 章*](../Text/2.html#_idTextAnchor029) 和 *NLP 的 PyTorch 1.x 入门*
