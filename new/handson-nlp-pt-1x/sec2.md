@@ -4,5 +4,5 @@
 
 本节包含以下章节：
 
-*   [*第 3 章*](../Text/3.html#_idTextAnchor051) ， *NLP 和文本嵌入*
-*   [*第 4 章*](../Text/4.html#_idTextAnchor070) 和*词根和词法提取*
+*   [“第 3 章”](../Text/3.html#_idTextAnchor051) ， *NLP 和文本嵌入*
+*   [“第 4 章”](../Text/4.html#_idTextAnchor070) 和*词根和词法提取*
