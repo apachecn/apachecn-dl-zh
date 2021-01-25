@@ -16,6 +16,7 @@
 +   [Sklearn 与 TensorFlow 机器学习实用指南第二版](docs/hands-on-ml-2e-zh/SUMMARY.md)
 +   [PyTorch 自然语言处理](docs/nlp-pytorch-zh/SUMMARY.md)
 +   [TensorFlow 1.x 深度学习秘籍](docs/tf-1x-dl-cookbook/SUMMARY.md)
++   [PyTorch 中文官方教程 1.7](docs/pt-tut-17/SUMMARY.md)
 +   [使用 TensorFlow 构建机器学习项目中文版](docs/build-ml-proj-tf-zh/SUMMARY.md)
 +   [TensorFlow 深度学习中文第二版](docs/dl-tf-2e-zh/SUMMARY.md)
 +   [TensorFlow 深度学习实战指南中文版](docs/hands-on-dl-tf-zh/SUMMARY.md)
@@ -53,6 +54,12 @@
 +   [Python Web 深度学习实用指南](docs/handson-py-dl-web/SUMMARY.md)
 +   [精通 TensorFlow 2.x 计算机视觉](docs/master-cv-tf-2x/SUMMARY.md)
 +   [TensorFlow Lite，ML Kit 和 Flutter 移动深度学习](docs/mobi-dl-tflite/SUMMARY.md)
++   [PyTorch 人工智能研讨会](docs/dl-pt-workshop/SUMMARY.md)
++   [Python 一次学习实用指南](docs/handson-1shot-learn-py/SUMMARY.md)
++   [Python 自然语言处理实用指南](docs/handson-nlp-pt-1x/SUMMARY.md)
++   [PyTorch 人工智能基础知识](docs/pt-ai-fund/SUMMARY.md)
++   [PyTorch 深度学习实用指南](docs/pt-dl-handson/SUMMARY.md)
++   [TensorFlow 强化学习](docs/rl-tf/SUMMARY.md)
 
 ## 下载
 
