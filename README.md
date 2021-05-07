@@ -15,6 +15,7 @@
 
 +   [Sklearn 与 TensorFlow 机器学习实用指南第二版](docs/hands-on-ml-2e-zh/SUMMARY.md)
 +   [PyTorch 自然语言处理](docs/nlp-pytorch-zh/SUMMARY.md)
++   [斯坦福 cs234 强化学习中文讲义](docs/stanford-cs234-notes-zh/SUMMARY.md)
 +   [TensorFlow 1.x 深度学习秘籍](docs/tf-1x-dl-cookbook/SUMMARY.md)
 +   [PyTorch 中文官方教程 1.7](docs/pt-tut-17/SUMMARY.md)
 +   [使用 TensorFlow 构建机器学习项目中文版](docs/build-ml-proj-tf-zh/SUMMARY.md)
