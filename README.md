@@ -56,7 +56,7 @@
 +   [精通 TensorFlow 2.x 计算机视觉](docs/master-cv-tf-2x/SUMMARY.md)
 +   [TensorFlow Lite，ML Kit 和 Flutter 移动深度学习](docs/mobi-dl-tflite/SUMMARY.md)
 +   [PyTorch 人工智能研讨会](docs/dl-pt-workshop/SUMMARY.md)
-+   [Python 一次学习实用指南](docs/handson-1shot-learn-py/SUMMARY.md)
++   [Python 单样本学习实用指南](docs/handson-1shot-learn-py/SUMMARY.md)
 +   [Python 自然语言处理实用指南](docs/handson-nlp-pt-1x/SUMMARY.md)
 +   [PyTorch 人工智能基础知识](docs/pt-ai-fund/SUMMARY.md)
 +   [PyTorch 深度学习实用指南](docs/pt-dl-handson/SUMMARY.md)
