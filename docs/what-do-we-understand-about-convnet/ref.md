@@ -37,7 +37,7 @@
 *   [35] A. Dundar，J。Jin和E. Culurciello。用于无监督学习的卷积聚类。 2016年ICLR研讨会。
 *   [36] [D. Eigen和R. Fergus。使用通用的多尺度卷积结构预测深度，表面法线和语义标签。在ICCV，2015年。](file:///D:/papers/1411.4734/)
 *   [37] D. Erhan，Y。Bengio，A。Courville和P. Vincent。可视化深层网络的高层功能。技术报告1341，蒙特利尔大学，2009年。
-*   [38] [L. Fei-Fei，R。Fergus和R. Perona。对象类别的一次性学习。 IEEE Transactions on Pattern Analysis and Machine Intelligence，28：594“611,2006。](http://vision.cs.princeton.edu/documents/Fei-FeiFergusPerona2006.pdf)
+*   [38] [L. Fei-Fei，R。Fergus和R. Perona。对象类别的单样本学习。 IEEE Transactions on Pattern Analysis and Machine Intelligence，28：594“611,2006。](http://vision.cs.princeton.edu/documents/Fei-FeiFergusPerona2006.pdf)
 *   [39] [C. Feichtenhofer，A。Pinz和R. P. Wildes。基于时空显着性的动态编码动作。在CVPR，2015年。](http://dx.doi.org/10.1109/cvpr.2015.7298892)
 *   [40] [C. Feichtenhofer，A。Pinz和R. P. Wildes。用于视频动作识别的时空残留网络。在NIPS，2016年。](http://dx.doi.org/10.1109/cvpr.2017.787)
 *   [41] [C. Feichtenhofer，A。Pinz和R. P. Wildes。用于视频动作识别的时空乘数网络。在CVPR，2017年。](http://dx.doi.org/10.1109/cvpr.2017.787)
