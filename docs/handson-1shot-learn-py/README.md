@@ -1,4 +1,4 @@
-# Python 一次学习实用指南
+# Python 单样本学习实用指南
 
 > 原文：[Hands-On One-shot Learning with Python](https://b-ok.asia/book/5558588/fa8274)
 > 
