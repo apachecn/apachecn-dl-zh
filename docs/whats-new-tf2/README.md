@@ -3,6 +3,8 @@
 > 原文：[What's New in TensorFlow 2.0](https://b-ok.global/book/5266002/7f6ec6)
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+>
+> 阶段：简单校对（2）
 > 
 > 自豪地采用[谷歌翻译](https://translate.google.cn/)
 > 
