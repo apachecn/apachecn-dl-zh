@@ -3,6 +3,8 @@
 > 作者：[谢天](https://www.zhihu.com/people/xie-tian-55-77)
 > 
 > 来源：[POST 馆](https://zhuanlan.zhihu.com/c_150977189)
+>
+> 阶段：精细校对（4）
 > 
 > 工作进度上越早落后，你就会有越充足的时间赶上。
 
