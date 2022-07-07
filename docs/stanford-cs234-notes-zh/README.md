@@ -5,7 +5,7 @@
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
 > 阶段：简单校对（2）
-?
+>
 > 做事所花费的时间总是比你预期的要长，即使你的预期中考虑了侯世达定律。——侯世达定律
 
 +   [斯坦福 CS229 机器学习中文笔记](http://ai-start.com/ml2014/)
