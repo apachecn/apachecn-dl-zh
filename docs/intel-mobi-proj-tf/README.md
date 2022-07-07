@@ -3,6 +3,8 @@
 > 原文：[Intelligent mobile projects with TensorFlow](https://b-ok.asia/book/3556933/c33cec)
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+>
+> 阶段：简单校对（2）
 > 
 > 自豪地采用[谷歌翻译](https://translate.google.cn/)
 > 
