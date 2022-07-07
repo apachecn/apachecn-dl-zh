@@ -5,6 +5,8 @@
 > 译者：[FesianXu](https://my.csdn.net/loseinvain)、[飞龙](https://github.com/wizardforcel)
 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+>
+> 阶段：精细校对（4）
 
 ## 一、TensorFlow 基础
 
