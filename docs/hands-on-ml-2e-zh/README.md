@@ -4,6 +4,8 @@
 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
+> 阶段：精细校对（4）
+>
 > 懦夫才用磁带备份，真男人把重要的东西传到 FTP，然后世界会帮他备份。——林纳斯·托瓦兹
 
 * [ApacheCN 学习资源](http://www.apachecn.org/)
