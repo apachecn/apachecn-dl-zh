@@ -5,6 +5,8 @@
 > 译者：[飞龙](https://github.com/wizardforcel/)
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+>
+> 阶段：简单校对（2）
 
 ### [最后更新：06/01/2019]
 
