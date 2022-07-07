@@ -3,6 +3,8 @@
 > 原文：[Hands-On Transfer Learning with Python](https://b-ok.global/book/3608321/f88298)
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+>
+> 阶段：简单校对（2）
 > 
 > 自豪地采用[谷歌翻译](https://translate.google.cn/)
 > 
